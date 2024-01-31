@@ -1,5 +1,7 @@
 2024-02-01  Mert Gör  <mertgor@masscollabs.xyz>
 
+	* adivb.c (main): a div b is c 
+
 	* test.txt: Test file has been added
 
 	* axb.c (main): a multiply b is c 
